@@ -1,5 +1,14 @@
 
 
+class locker():
+    def __init__(self, x ,y):
+        self.x = x
+        self.y=y
+
+
+
+
+
 
 
 name = "James Smith"
